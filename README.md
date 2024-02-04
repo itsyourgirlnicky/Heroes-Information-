@@ -34,10 +34,5 @@ The features of interest for this analysis will be:
 
 #### 5. Plot a Bar Chart of Eye Colors
 
-### Setup
-
-In the cell below we import the relevant libraries, open up the CSV file as a dataframe called `df`, and convert cells containing `-` into cells containing `NaN` (because `-` was used to represent missing data in the original dataset).
-
-***Hint:*** If you ever accidentally drop data that you didn't mean to drop, you can come back to this cell and re-run it to load a fresh copy of the data. Before submission, make sure you restart the kernel and run all of the cells to make sure that everything works in order.
 
 
